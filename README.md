@@ -32,5 +32,24 @@
 ###
 
 <p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left">
+Soy estudiante de Analista de Sistemas en el Instituto Da Vinci.
 
+Me interesa aprender sobre desarrollo de software, bases de datos y cómo la tecnología puede ayudar a resolver problemas reales. Actualmente estoy fortaleciendo mis conocimientos a través de proyectos académicos y prácticos, donde busco mejorar tanto mi lógica de programación como mis habilidades para trabajar en equipo.
+
+### 🛠️ Herramientas y tecnologías que utilizo
+- Java
+- MySQL
+- Git y GitHub
+- Linux
+- Eclipse / NetBeans
+- Visual Studio Code
+
+### 🌱 Actualmente
+- Aprendiendo nuevas tecnologías y metodologías de desarrollo.
+- Desarrollando proyectos para seguir ganando experiencia.
+- Mejorando mis conocimientos en programación y bases de datos.
+
+Siempre estoy abierto a seguir aprendiendo y enfrentar nuevos desafíos que me permitan crecer como profesional.
+</p>
 ###
