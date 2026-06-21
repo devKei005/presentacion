@@ -27,10 +27,6 @@
 
 ###
 
-
-
-###
-
 <p data-importer="text" align="left">Hello World!!</p>
 <p data-importer="text" align="left">
 Soy estudiante de Analista de Sistemas en el Instituto Da Vinci.
@@ -52,4 +48,3 @@ Me interesa aprender sobre desarrollo de software, bases de datos y cómo la tec
 
 Siempre estoy abierto a seguir aprendiendo y enfrentar nuevos desafíos que me permitan crecer como profesional.
 </p>
-###
